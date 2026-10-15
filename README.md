@@ -410,7 +410,6 @@ This is the key analysis comparing model efficiency:
 
 4. **Dataset**: Nickparvar, M. "Brain Tumor MRI Dataset." Kaggle. https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
-5. **Original Project Reference**: "Brain Tumor Classification from MRI Scans using EfficientNetB3" — Model Engineering College, Thrikkakara (CSD 481 Mini Project, October 2025)
 
 ---
 
