@@ -1,0 +1,45 @@
+# Reference documents - DO NOT push to git
+Minor Mini word.pdf
+Minor Mini word.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model outputs
+*.h5
+*.pth
+*.pt
+*.onnx
+saved_models/
+checkpoints/
+
+# Data
+data/
+dataset/
+*.zip
+*.tar.gz
+
+# Logs
+logs/
+runs/
+wandb/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
